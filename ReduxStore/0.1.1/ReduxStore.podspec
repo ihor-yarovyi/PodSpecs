@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/ihor-yarovyi/ReduxStore'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Ihor Yarovyi' => 'ihor.yarovyi@urk.net' }
+  s.author           = { 'Ihor Yarovyi' => 'ihor.yarovyi@ukr.net' }
   s.source           = { :git => 'https://github.com/ihor-yarovyi/ReduxStore.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
